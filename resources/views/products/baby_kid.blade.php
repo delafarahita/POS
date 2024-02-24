@@ -1,3 +1,7 @@
-<div>
-    <!-- Do what you can, with what you have, where you are. - Theodore Roosevelt -->
-</div>
+<html>
+
+<body>
+    <h1>Halaman Kategori Baby and Kid</h1>
+</body>
+
+</html>

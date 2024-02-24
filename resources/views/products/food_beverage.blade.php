@@ -1,3 +1,7 @@
-<div>
-    <!-- If you do not have a consistent goal in life, you can not live it in a consistent way. - Marcus Aurelius -->
-</div>
+<html>
+
+<body>
+    <h1>Halaman Kategori Food and Beverage</h1>
+</body>
+
+</html>
